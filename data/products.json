@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "name": "Product 1",
+      "category": "Clothing",
+      "price": 151.37,
+      "in_stock": 12,
+      "ratings": [4, 5, 3, 4],
+      "release_date": "2023-05-10"
+    }
+  ]
+}
